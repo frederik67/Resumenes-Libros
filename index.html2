@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Resumenes de Libros - Inicio</title>
+  <link rel="stylesheet" href="css/estilos.css" />
+</head>
+<body>
+
+  <nav>
+    <a href="index.html">Inicio</a>
+    <a href="catalogo.html">Catálogo</a>
+    <a href="sobre.html">Sobre mí</a>
+    <a href="contacto.html">Contacto</a>
+  </nav>
+
+  <main>
+    <h1>Bienvenido a Resúmenes de Libros</h1>
+    <p>Descubre resúmenes breves y útiles de tus libros favoritos.</p>
+    <p>Entra en el catálogo para ver todos los libros.</p>
+  </main>
+
+</body>
+</html>
